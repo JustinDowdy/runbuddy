@@ -151,6 +151,15 @@ section {
     display: inline-block;
     border-bottom: 3px solid;
 }
+
+.section-title2 {
+    font-size: 55px;
+    color: #blue;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    display: inline-block;
+    border-bottom: 3px solid;
+}
   
 .primary-border {
     border-color: #fce138;
